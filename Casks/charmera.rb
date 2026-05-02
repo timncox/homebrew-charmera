@@ -1,6 +1,6 @@
 cask "charmera" do
-  version "1.3.0"
-  sha256 "de65f335f8ce4ef1cf11ba860d5db81e148dc9b757d1226bfa117f28df1a10c8"
+  version "1.3.1"
+  sha256 "2b07789dcbee82faa8a4f366311d0314235b734411863c243f3f1c597ed1d667"
 
   url "https://github.com/timncox/charmerapp/releases/download/v#{version}/Charmera.dmg"
   name "Charmera"
